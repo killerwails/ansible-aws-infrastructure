@@ -79,5 +79,6 @@ Contributors
 * Justin Scott
 * Aaron Pederson
 * Ben Visser
+* Nikki
 * Kinnan Kwok
 * Royston Tong

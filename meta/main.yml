@@ -3,6 +3,14 @@ galaxy_info:
   author: "Chris Olstrom"
   company: "TELUS digital"
   description: "aws-infrastructure builds out things according to seemingly arbitrary conventions. They probably make sense, in the appropriate context."
+  min_ansible_version: 2.0
   license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+      - trusty
+  dependencies: []
   categories:
+    - aws
+    - automation
     - cloud
